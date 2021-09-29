@@ -26,6 +26,7 @@
 
 ## Create a Jupyter Notebook .ipynb file
 
+* 2022 update: There's already a Jupyter Notebook included in the repository. Complete the assignment using that notebook.
 * In Jupyter Notebook or VSCode navigate to your repository folder.
   * Create a new Jupyter Notebook called FilesTutorial.ipynb
 
